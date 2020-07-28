@@ -1,0 +1,103 @@
+C:\Users\Filip\source\repos\gui3\GUI3\bin\Debug\GUI3.exe.config
+C:\Users\Filip\source\repos\gui3\GUI3\bin\Debug\GUI3.exe
+C:\Users\Filip\source\repos\gui3\GUI3\bin\Debug\GUI3.pdb
+C:\Users\Filip\source\repos\gui3\GUI3\bin\Debug\GUI3.xml
+C:\Users\Filip\source\repos\gui3\GUI3\obj\Debug\GUI3.vbprojAssemblyReference.cache
+C:\Users\Filip\source\repos\gui3\GUI3\obj\Debug\GUI3.Form1.resources
+C:\Users\Filip\source\repos\gui3\GUI3\obj\Debug\GUI3.Form10.resources
+C:\Users\Filip\source\repos\gui3\GUI3\obj\Debug\GUI3.Form11.resources
+C:\Users\Filip\source\repos\gui3\GUI3\obj\Debug\GUI3.Form2.resources
+C:\Users\Filip\source\repos\gui3\GUI3\obj\Debug\GUI3.Form3.resources
+C:\Users\Filip\source\repos\gui3\GUI3\obj\Debug\GUI3.Form4.resources
+C:\Users\Filip\source\repos\gui3\GUI3\obj\Debug\GUI3.Form5.resources
+C:\Users\Filip\source\repos\gui3\GUI3\obj\Debug\GUI3.Form7.resources
+C:\Users\Filip\source\repos\gui3\GUI3\obj\Debug\GUI3.Form9.resources
+C:\Users\Filip\source\repos\gui3\GUI3\obj\Debug\GUI3.Resources.resources
+C:\Users\Filip\source\repos\gui3\GUI3\obj\Debug\GUI3.vbproj.GenerateResource.cache
+C:\Users\Filip\source\repos\gui3\GUI3\obj\Debug\GUI3.vbproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\gui3\GUI3\obj\Debug\GUI3.exe
+C:\Users\Filip\source\repos\gui3\GUI3\obj\Debug\GUI3.xml
+C:\Users\Filip\source\repos\gui3\GUI3\obj\Debug\GUI3.pdb
+C:\Users\Filip\source\repos\gui3\GUI3\bin\Debug\MySql.Data.dll
+C:\Users\Filip\source\repos\gui3\GUI3\bin\Debug\Google.Protobuf.dll
+C:\Users\Filip\source\repos\gui3\GUI3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Filip\source\repos\gui3\GUI3\bin\Debug\MySql.Data.xml
+C:\Users\Filip\source\repos\gui3\GUI3\obj\Debug\GUI3.vbproj.CopyComplete
+F:\GUI3\GUI3\bin\Debug\GUI3.exe.config
+F:\GUI3\GUI3\bin\Debug\GUI3.exe
+F:\GUI3\GUI3\bin\Debug\GUI3.pdb
+F:\GUI3\GUI3\bin\Debug\GUI3.xml
+F:\GUI3\GUI3\bin\Debug\MySql.Data.dll
+F:\GUI3\GUI3\bin\Debug\Google.Protobuf.dll
+F:\GUI3\GUI3\bin\Debug\BouncyCastle.Crypto.dll
+F:\GUI3\GUI3\bin\Debug\MySql.Data.xml
+F:\GUI3\GUI3\obj\Debug\GUI3.vbprojAssemblyReference.cache
+F:\GUI3\GUI3\obj\Debug\GUI3.Form1.resources
+F:\GUI3\GUI3\obj\Debug\GUI3.Form10.resources
+F:\GUI3\GUI3\obj\Debug\GUI3.Form11.resources
+F:\GUI3\GUI3\obj\Debug\GUI3.Form2.resources
+F:\GUI3\GUI3\obj\Debug\GUI3.Form3.resources
+F:\GUI3\GUI3\obj\Debug\GUI3.Form4.resources
+F:\GUI3\GUI3\obj\Debug\GUI3.Form5.resources
+F:\GUI3\GUI3\obj\Debug\GUI3.Form7.resources
+F:\GUI3\GUI3\obj\Debug\GUI3.Form8.resources
+F:\GUI3\GUI3\obj\Debug\GUI3.Form9.resources
+F:\GUI3\GUI3\obj\Debug\GUI3.Resources.resources
+F:\GUI3\GUI3\obj\Debug\GUI3.vbproj.GenerateResource.cache
+F:\GUI3\GUI3\obj\Debug\GUI3.vbproj.CoreCompileInputs.cache
+F:\GUI3\GUI3\obj\Debug\GUI3.vbproj.CopyComplete
+F:\GUI3\GUI3\obj\Debug\GUI3.exe
+F:\GUI3\GUI3\obj\Debug\GUI3.xml
+F:\GUI3\GUI3\obj\Debug\GUI3.pdb
+C:\Users\Filip\source\repos\GUI3\GUI3\obj\Debug\GUI3.Form6.resources
+C:\Users\angus\Desktop\filip\GUI3\GUI3\bin\Debug\GUI3.exe.config
+C:\Users\angus\Desktop\filip\GUI3\GUI3\bin\Debug\GUI3.exe
+C:\Users\angus\Desktop\filip\GUI3\GUI3\bin\Debug\GUI3.pdb
+C:\Users\angus\Desktop\filip\GUI3\GUI3\bin\Debug\GUI3.xml
+C:\Users\angus\Desktop\filip\GUI3\GUI3\bin\Debug\MySql.Data.dll
+C:\Users\angus\Desktop\filip\GUI3\GUI3\bin\Debug\Google.Protobuf.dll
+C:\Users\angus\Desktop\filip\GUI3\GUI3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\angus\Desktop\filip\GUI3\GUI3\bin\Debug\MySql.Data.xml
+C:\Users\angus\Desktop\filip\GUI3\GUI3\obj\Debug\GUI3.vbprojAssemblyReference.cache
+C:\Users\angus\Desktop\filip\GUI3\GUI3\obj\Debug\GUI3.Form1.resources
+C:\Users\angus\Desktop\filip\GUI3\GUI3\obj\Debug\GUI3.Form10.resources
+C:\Users\angus\Desktop\filip\GUI3\GUI3\obj\Debug\GUI3.Form11.resources
+C:\Users\angus\Desktop\filip\GUI3\GUI3\obj\Debug\GUI3.Form2.resources
+C:\Users\angus\Desktop\filip\GUI3\GUI3\obj\Debug\GUI3.Form3.resources
+C:\Users\angus\Desktop\filip\GUI3\GUI3\obj\Debug\GUI3.Form4.resources
+C:\Users\angus\Desktop\filip\GUI3\GUI3\obj\Debug\GUI3.Form5.resources
+C:\Users\angus\Desktop\filip\GUI3\GUI3\obj\Debug\GUI3.Form6.resources
+C:\Users\angus\Desktop\filip\GUI3\GUI3\obj\Debug\GUI3.Form7.resources
+C:\Users\angus\Desktop\filip\GUI3\GUI3\obj\Debug\GUI3.Form9.resources
+C:\Users\angus\Desktop\filip\GUI3\GUI3\obj\Debug\GUI3.Resources.resources
+C:\Users\angus\Desktop\filip\GUI3\GUI3\obj\Debug\GUI3.vbproj.GenerateResource.cache
+C:\Users\angus\Desktop\filip\GUI3\GUI3\obj\Debug\GUI3.vbproj.CoreCompileInputs.cache
+C:\Users\angus\Desktop\filip\GUI3\GUI3\obj\Debug\GUI3.vbproj.CopyComplete
+C:\Users\angus\Desktop\filip\GUI3\GUI3\obj\Debug\GUI3.exe
+C:\Users\angus\Desktop\filip\GUI3\GUI3\obj\Debug\GUI3.xml
+C:\Users\angus\Desktop\filip\GUI3\GUI3\obj\Debug\GUI3.pdb
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\bin\Debug\GUI3.exe.config
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\bin\Debug\GUI3.exe
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\bin\Debug\GUI3.pdb
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\bin\Debug\GUI3.xml
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\bin\Debug\Google.Protobuf.dll
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\bin\Debug\MySql.Data.xml
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\obj\Debug\GUI3.vbprojAssemblyReference.cache
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\obj\Debug\GUI3.Form1.resources
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\obj\Debug\GUI3.Form10.resources
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\obj\Debug\GUI3.Form11.resources
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\obj\Debug\GUI3.Form2.resources
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\obj\Debug\GUI3.Form3.resources
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\obj\Debug\GUI3.Form4.resources
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\obj\Debug\GUI3.Form5.resources
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\obj\Debug\GUI3.Form6.resources
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\obj\Debug\GUI3.Form7.resources
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\obj\Debug\GUI3.Form9.resources
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\obj\Debug\GUI3.Resources.resources
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\obj\Debug\GUI3.vbproj.GenerateResource.cache
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\obj\Debug\GUI3.vbproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\obj\Debug\GUI3.vbproj.CopyComplete
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\obj\Debug\GUI3.exe
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\obj\Debug\GUI3.xml
+C:\Users\Filip\Desktop\100dia\Bazy danych\Bazy danych\GUI3\GUI3\obj\Debug\GUI3.pdb

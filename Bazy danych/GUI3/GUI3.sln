@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GUI3", "GUI3\GUI3.vbproj", "{E12B71DC-07B6-4FDF-AD3B-D9181225999D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E12B71DC-07B6-4FDF-AD3B-D9181225999D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E12B71DC-07B6-4FDF-AD3B-D9181225999D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E12B71DC-07B6-4FDF-AD3B-D9181225999D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E12B71DC-07B6-4FDF-AD3B-D9181225999D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C366786-8546-4511-8C87-470772A925E6}
+	EndGlobalSection
+EndGlobal
